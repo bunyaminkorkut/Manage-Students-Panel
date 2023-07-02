@@ -1,0 +1,8 @@
+*.js @bunyaminkorkut
+*.html @bunyaminkorkut
+*.css @bunyaminkorkut
+public/* @bunyaminkorkut
+app/* @bunyaminkorkut
+package-lock.json @bunyaminkorkut
+.gitignore @bunyaminkorkut
+tailwind.config.js @bunyaminkorkut

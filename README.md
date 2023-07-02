@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 [DEMO](https://manage-students-panel.vercel.app/)
 
-Email: admin@admin.com    Password: admin
+Email: admin@admin.com
+
+Password: admin
 
 
 

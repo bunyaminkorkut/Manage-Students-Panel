@@ -16,10 +16,6 @@ body {
   -ms-transform: scale(1);
   transform: scale(1);
 }
-td.last {
-    width: 1px;
-    white-space: nowrap;
-}
 .closed-modal {
   -webkit-transition: opacity 400ms 0ms, -webkit-transform 0ms 400ms;
   transition: opacity 400ms 0ms, -webkit-transform 0ms 400ms;
@@ -30,12 +26,4 @@ td.last {
   -webkit-transform: scale(0);
   -ms-transform: scale(0);
   transform: scale(0);
-}
-td.last {
-    width: 1px;
-    white-space: nowrap;
-}
-td.fitwidth {
-    width: 1px;
-    white-space: nowrap;
 }
